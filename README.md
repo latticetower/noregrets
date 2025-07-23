@@ -1,6 +1,6 @@
 # noregrets: No regrets, only losses
 
-Here I want to store the collection of pytorch losses to reuse them in the future. Most probably I'll make them lightning-compatible. This is a collection of scripts
+Here I want to store the collection of pytorch losses to reuse them in the future. Most probably I'll make them lightning-compatible. 
 
 ### Installation
 
